@@ -209,7 +209,7 @@ void main(int argc, char** argv)
 	glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
 	glutInitWindowSize(1000, 800);
 	glutInitWindowPosition(20, 20);
-	glutCreateWindow("Preliminary Lab");
+	glutCreateWindow("Lab 1");
 
 	init();
 	glutDisplayFunc(display);
